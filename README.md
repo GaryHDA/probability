@@ -6,7 +6,7 @@ This repo is part of the 2020-2021 beach litter surveillance project and part of
 
 ### Intended use
 
-Applying different probability distributions and methods to survey data. Completed analysis projects are displayed on the hammerdirt! app and the appropriate client app. Anlysis is focussed on the probaility distribtuion of objects found at the regional level:
+Applying different probability distributions and methods to survey data. Completed analysis projects are displayed on the hammerdirt! app and the appropriate client app. Analysis is focussed on the probability distribtuion of objects found at the regional level:
 
 1. Indentifying appropriate distributions for data
 2. Defining the PDF for each regional level and all data
