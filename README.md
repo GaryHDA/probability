@@ -24,7 +24,7 @@ Access to data is provided through the Jupyter notebook templates.
 Follow these steps if you would like to submit a completed analysis or visualisation and have it included in a publication or on a client app:
 
 1. Clone the repo
-2. Start a branch titled <yourname_abundance>
+2. Start a branch titled <yourname_proability>
 3. In the notebook make sure to change the "save_prefix" value
 4. Complete your analysis 
 5. On your local generate .html output of the notebook
