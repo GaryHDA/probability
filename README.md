@@ -1,5 +1,7 @@
 ### Probability
 
+#### The repo is still under development. Scheduled completion is 01-31-20
+
 #### About this repo
 
 This repo is part of the 2020-2021 beach litter surveillance project and part of the hammerdirt! infrastructure. Access is  public.
